@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="Time-Management-Program-v-1-1-1-1" Publisher="CN=~Archi~" Version="2.0.3.0" />
+  <Properties>
+    <DisplayName>Time Management Program</DisplayName>
+    <PublisherDisplayName>Артем Замуруев</PublisherDisplayName>
+    <Logo>Assets\StoreLogoNew.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="Time_Management_Program.App">
+      <VisualElements DisplayName="Time Management Program" Logo="Assets\LogoNew.png" SmallLogo="Assets\SmallLogo.png" Description="Time Management Program" ForegroundText="light" BackgroundColor="#464646">
+        <DefaultTile ShowName="allLogos" ShortName="Time Management" WideLogo="Assets\SecondNewLogo.png" />
+        <SplashScreen Image="Assets\SplashNew.png" BackgroundColor="#00a8eb" />
+        <InitialRotationPreference>
+          <Rotation Preference="landscape" />
+        </InitialRotationPreference>
+      </VisualElements>
+    </Application>
+  </Applications>
+</Package>

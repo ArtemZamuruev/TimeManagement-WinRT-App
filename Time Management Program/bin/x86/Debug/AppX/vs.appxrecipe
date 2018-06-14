@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ARTEMZAMURUEVLA</Machine>
+    <WindowsUser>~Archi~</WindowsUser>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <RegisteredManifestChecksum>0FC285E398FFC10FDD1E0D4961B3C8B21F8510D0D2C9009AD7B23887B4EA6144</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>Time-Management-Program-v-1-1-1-1_1.0.1.0_x86__9s13ex5c4fe8r</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>Time-Management-Program-v-1-1-1-1_9s13ex5c4fe8r!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>Time-Management-Program-v-1-1-1-1</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=~Archi~</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.1.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-13T21:52:35.538</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\bin\x86\Debug\Time Management Program.exe">
+      <PackagePath>Time Management Program.exe</PackagePath>
+      <Modified>2013-04-14T08:44:05.277</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\bin\x86\Debug\Time Management Program.pdb">
+      <PackagePath>Time Management Program.pdb</PackagePath>
+      <Modified>2013-04-14T08:44:05.237</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\SQLite.WinRT\3.7.16.1\Redist\Debug\x86\sqlite3.dll">
+      <PackagePath>sqlite3.dll</PackagePath>
+      <Modified>2013-04-04T15:06:11.663</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\SQLite.WinRT\3.7.16.1\Redist\Debug\x86\sqlite3.pdb">
+      <PackagePath>sqlite3.pdb</PackagePath>
+      <Modified>2013-04-04T15:06:11.771</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <Modified>2012-03-16T19:29:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\Assets\LogoNew.png">
+      <PackagePath>Assets\LogoNew.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-07T09:36:02.743</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\Assets\SecondNewLogo.png">
+      <PackagePath>Assets\SecondNewLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-13T17:57:41.804</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T19:29:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\Assets\SplashNew.png">
+      <PackagePath>Assets\SplashNew.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-07T09:46:39.326</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <Modified>2012-03-16T19:29:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <Modified>2012-03-16T19:29:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\Assets\StoreLogoNew.png">
+      <PackagePath>Assets\StoreLogoNew.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-13T17:59:56.533</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2013-04-07T11:28:12.587</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\bin\x86\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-04-09T09:50:19.735</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\bin\x86\Debug\InfoAboutCurrentAnalise.xaml">
+      <PackagePath>InfoAboutCurrentAnalise.xaml</PackagePath>
+      <Modified>2013-04-13T13:51:44.918</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\bin\x86\Debug\OldAnalisesPage.xaml">
+      <PackagePath>OldAnalisesPage.xaml</PackagePath>
+      <Modified>2013-04-13T17:14:51.345</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\bin\x86\Debug\CurrentAnalise.xaml">
+      <PackagePath>CurrentAnalise.xaml</PackagePath>
+      <Modified>2013-04-14T08:17:47.399</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\bin\x86\Debug\CurrentActionList.xaml">
+      <PackagePath>CurrentActionList.xaml</PackagePath>
+      <Modified>2013-04-13T17:15:12.331</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\bin\x86\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2013-04-13T13:12:58.861</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\bin\x86\Debug\UserPage.xaml">
+      <PackagePath>UserPage.xaml</PackagePath>
+      <Modified>2013-04-14T07:40:05.276</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-04-13T21:52:35.366</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\">
+      <Name>Microsoft.VCLibs.110.00.Debug</Name>
+      <Version>11.0.50727.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.110.00.Debug, MinVersion = 11.0.50727.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.11.00.appx</AppxLocation>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\">
+      <Name>Microsoft.VCLibs.110.00.Debug</Name>
+      <Version>11.0.50727.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.110.00.Debug, MinVersion = 11.0.50727.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.11.00.appx</AppxLocation>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\">
+      <Name>Microsoft.VCLibs.110.00.Debug</Name>
+      <Version>11.0.50727.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.110.00.Debug, MinVersion = 11.0.50727.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.11.00.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

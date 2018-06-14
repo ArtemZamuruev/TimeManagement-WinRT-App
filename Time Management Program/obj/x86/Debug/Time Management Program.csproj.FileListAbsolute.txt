@@ -1,0 +1,40 @@
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\bin\x86\Debug\Time Management Program.exe
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\bin\x86\Debug\Time Management Program.pdb
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\bin\x86\Debug\resources.pri
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\bin\x86\Debug\AppxManifest.xml
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\bin\x86\Debug\Time Management Program.build.appxrecipe
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Debug\App.g.i.cs
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Debug\App.g.cs
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Debug\Common\StandardStyles.g.i.cs
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Debug\Common\StandardStyles.g.cs
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Debug\App.xaml
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Debug\Common\StandardStyles.xaml
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Debug\Time Management Program.exe
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Debug\Time Management Program.pdb
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Debug\Time Management Program.csproj.GenerateResource.Cache
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Debug\priconfig.xml
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Debug\layout.resfiles
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Debug\resources.resfiles
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Debug\pri.resfiles
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Debug\LanguageQualifiers.txt
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Debug\UserPage.g.i.cs
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Debug\UserPage.g.cs
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Debug\UserPage.xaml
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Debug\CurrentAnalise.g.i.cs
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Debug\CurrentAnalise.g.cs
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Debug\CurrentActionList.g.i.cs
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Debug\CurrentActionList.g.cs
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Debug\CurrentAnalise.xaml
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Debug\CurrentActionList.xaml
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Debug\InfoAboutCurrentAnalise.g.i.cs
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Debug\InfoAboutCurrentAnalise.g.cs
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Debug\InfoAboutCurrentAnalise.xaml
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Debug\OldAnalisesPage.g.i.cs
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Debug\OldAnalisesPage.g.cs
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Debug\OldAnalisesPage.xaml
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Debug\pri.resfiles.intermediate

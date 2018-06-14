@@ -1,0 +1,36 @@
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\bin\x86\Release\Time Management Program.exe
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\bin\x86\Release\Time Management Program.pdb
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\bin\x86\Release\resources.pri
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\bin\x86\Release\AppxManifest.xml
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\bin\x86\Release\Time Management Program.build.appxrecipe
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Release\App.g.i.cs
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Release\App.g.cs
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Release\InfoAboutCurrentAnalise.g.i.cs
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Release\InfoAboutCurrentAnalise.g.cs
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Release\OldAnalisesPage.g.i.cs
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Release\OldAnalisesPage.g.cs
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Release\CurrentAnalise.g.i.cs
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Release\CurrentAnalise.g.cs
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Release\CurrentActionList.g.i.cs
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Release\CurrentActionList.g.cs
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Release\Common\StandardStyles.g.i.cs
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Release\Common\StandardStyles.g.cs
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Release\UserPage.g.i.cs
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Release\UserPage.g.cs
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Release\XamlTypeInfo.g.cs
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Release\App.xaml
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Release\InfoAboutCurrentAnalise.xaml
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Release\OldAnalisesPage.xaml
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Release\CurrentAnalise.xaml
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Release\CurrentActionList.xaml
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Release\Common\StandardStyles.xaml
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Release\UserPage.xaml
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Release\Time Management Program.exe
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Release\Time Management Program.pdb
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Release\Time Management Program.csproj.GenerateResource.Cache
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Release\priconfig.xml
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Release\layout.resfiles
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Release\resources.resfiles
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Release\pri.resfiles
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Release\LanguageQualifiers.txt
+C:\Users\~Archi~\Desktop\Курсовая работа\Time Management Program\Time Management Program\obj\x86\Release\ProjectArchitectures.txt
